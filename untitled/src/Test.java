@@ -15,8 +15,7 @@ public class Test {
         int reduce = 300;
         int month = 12;
         int year = 2016;
-
-
+        
         double sum = 0;
         double peni;
         double peniSum = 0;
